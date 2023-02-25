@@ -100,6 +100,7 @@ Sorted data:
 由于我实现的算法中进行了递归调用，每次对n个元素进行双调排序，都会进行递归，其空间复杂度为O(logn)。
 # 参考文献
 注：学生未进行代码的直接使用，主要对以下参考文献的代码进行了融合和改造。
+
 1.geeksforgeeks教程网站的双调排序教程页面及其源码：https://www.geeksforgeeks.org/bitonic-sort/
 2.纽约州立大学布法罗分校的双调排序课程文档：https://cse.buffalo.edu/faculty/miller/Courses/CSE633/Mullapudi-Spring-2014-CSE633.pdf
 3.Stack overflow网站双调排序相关页面：https://stackoverflow.com/questions/49223372/bitonic-sort-calculating-complexity
